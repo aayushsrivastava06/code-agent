@@ -1,0 +1,15 @@
+# Code Agent — Required Dependencies
+# Install with: pip install -r requirements.txt
+
+# Terminal UI (required)
+rich>=13.7.0
+
+# Environment variable loading (optional but recommended)
+python-dotenv>=1.0.0
+
+# Optional: For better readline support on Windows
+pyreadline3>=3.4.1  # Windows only — uncomment if needed
+
+# Optional: For improved HTTP handling (falls back to stdlib if not installed)
+requests>=2.31.0
+httpx>=0.25.0
