@@ -100,7 +100,13 @@ This installs `rich` and `python-dotenv` automatically.
 
 Choose any one (you only need one to start):
 
-**Gemini (Recommended)**
+**Mistral (THE BEST - Recommended)**
+1. Visit [https://admin.mistral.ai/organization/api-keys](https://admin.mistral.ai/organization/api-keys)
+2. Sign in with Mistral
+3. Click "Create New Key"
+4. Copy the key
+
+**Gemini**
 1. Visit [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
 2. Sign in with Google
 3. Click "Create API key"
